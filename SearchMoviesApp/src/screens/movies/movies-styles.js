@@ -11,7 +11,7 @@ export default StyleSheet.create({
         borderRadius: 8,
         padding: 10, 
     },
-    loadMoreContainer: {
+    placeholderContainer: {
         marginTop: 16,
         alignItems: 'center'
     },
